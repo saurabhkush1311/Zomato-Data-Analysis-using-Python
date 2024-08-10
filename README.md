@@ -19,6 +19,3 @@ Ratings Distribution: Analyzed the distribution of restaurant ratings.
 The Zomato Data Analysis project provides valuable insights into restaurant trends, customer preferences, and ratings. These findings can be used to guide business decisions in the food and beverage industry.
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
-## Acknowledgments
-Special thanks to Kaggle for providing the dataset.
-The analysis was inspired by various data science projects available online.
